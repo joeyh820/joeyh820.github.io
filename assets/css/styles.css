@@ -1033,6 +1033,11 @@ img{
     transform: translateX(.25rem)
 }
 
+.certification__image {
+    height: 281px; /* Fixed height, width will be auto-adjusted */
+    width: auto; /* Width is set to auto to maintain aspect ratio */
+}
+
 
 /*==================== BLOG ====================*/
 .blog__container{
