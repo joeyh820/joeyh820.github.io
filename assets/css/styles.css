@@ -1034,7 +1034,7 @@ img{
 }
 
 .certification__image {
-    height: 281px; /* Fixed height, width will be auto-adjusted */
+    height: 140px; /* Fixed height, width will be auto-adjusted */
     width: auto; /* Width is set to auto to maintain aspect ratio */
 }
 
