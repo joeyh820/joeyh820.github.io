@@ -1034,12 +1034,12 @@ img{
 }
 
 .certification__image {
-    height: 65px; /* Fixed height, width will be auto-adjusted */
+    height: 25px; /* Fixed height, width will be auto-adjusted */
     width: auto; /* Width is set to auto to maintain aspect ratio */
 }
 
-.certification__first {
-    height: 120px; /* Fixed height, width will be auto-adjusted */
+.certification__google_adv {
+    height: 70px; /* Fixed height, width will be auto-adjusted */
     width: auto; /* Width is set to auto to maintain aspect ratio */
 }
 
